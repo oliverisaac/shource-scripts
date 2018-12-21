@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
+shource log()
+
 function hello_world()
 {
-    echo "Hello world!"
+    log 0 "Hello world!"
 }
