@@ -2,6 +2,7 @@
 
 shource log()
 shource it_works()
+shource max_depth()
 
 function hello_world()
 {
