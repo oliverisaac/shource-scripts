@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 
 shource log()
+shource it_works()
 
 function hello_world()
 {
-    log 0 "Hello world!"
+    log 0 "$( it_works )"
 }

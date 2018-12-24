@@ -1,0 +1,6 @@
+#!/bin/bash
+
+function it_works()
+{
+    echo "it worked!"
+}
