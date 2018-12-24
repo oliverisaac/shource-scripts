@@ -1,6 +1,10 @@
 #!/bin/bash
 
+shource max_depth()
+
 function it_works()
 {
     echo "it worked!"
+    max_depth
 }
+
