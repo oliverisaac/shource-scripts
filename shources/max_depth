@@ -1,6 +1,10 @@
 #!/bin/bash
 
+
+shource oliverisaac/shource:join()
 function max_depth()
 {
     echo "here we ar!"
+
+    join "." a b c d
 }
